@@ -1,7 +1,5 @@
 #pragma once
 
-#include <SDL2/SDL_ttf.h>
-
 #include "grid.hpp"
 #include "window.hpp"
 
